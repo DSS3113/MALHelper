@@ -1,5 +1,5 @@
 # MALHelper
-A CLI interface for MyAnimeList
+A CLI interface for MyAnimeList written in Python 3.
 
 ## Introduction
 At the moment, this CLI interface allows you to do the following:
