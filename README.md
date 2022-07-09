@@ -28,4 +28,4 @@ For Windows: `python main.py <flags/options>`
 
 ## Demonstration
 Check out the GIF below to see how the CLI interface works.
-![](https://github.com/DSS3113/MALHelper/tree/main/demo/demo.gif)
+![](https://github.com/DSS3113/MALHelper/blob/main/demo/demo.gif)
