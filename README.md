@@ -19,7 +19,7 @@ At the moment, this CLI interface allows you to do the following:
 `-t`, `--trending`: Displays a list of top 50 trending anime from MyAnimeList<br />
 `-u`, `--upcoming`: Displays a list of top 50 upcoming anime from MyAnimeList
 
-## Installation instructions
+## Installation 
 Make sure you have Python 3.10 or above installed. Next, clone the repository and `cd` into the local repository. Install the dependencies:<br />
 `pip3 install -r requirements.txt`<br />
 Finally, run the script:<p>
