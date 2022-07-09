@@ -20,8 +20,8 @@ At the moment, this CLI interface allows you to do the following:
 `-u`, `--upcoming`: Displays a list of top 50 upcoming anime from MyAnimeList
 
 ## Installation instructions
-Make sure you have Python 3.10 or above installed. Next, clone the repository and `cd` into the local repository. Install the dependencies:
-`pip3 install -r requirements.txt`
+Make sure you have Python 3.10 or above installed. Next, clone the repository and `cd` into the local repository. Install the dependencies:<br />
+`pip3 install -r requirements.txt`<br />
 Finally, run the script:<p>
 For Unix: `python3 main.py <flags/options>`<p>
 For Windows: `python main.py <flags/options>`
