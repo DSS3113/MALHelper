@@ -2,7 +2,7 @@
 Welcome! MALHelper is a CLI for MyAnimeList written in Python.
 
 ## Introduction
-At the moment, this CLI interface allows you to do the following:
+At the moment, this CLI allows you to do the following:
 1. Display a list of top 50 currently airing anime from MyAnimeList.
 2. Display a list of top 50 trending anime from MyAnimeList.
 3. Display a list of top 50 upcoming anime from MyAnimeList.
