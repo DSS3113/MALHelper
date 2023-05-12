@@ -1,5 +1,5 @@
 # MALHelper
-Welcome! MALHelper is a CLI interface for MyAnimeList written in Python.
+Welcome! MALHelper is a CLI for MyAnimeList written in Python.
 
 ## Introduction
 At the moment, this CLI interface allows you to do the following:
@@ -27,5 +27,5 @@ For Unix: `python3 main.py <flags/options>`<p>
 For Windows: `python main.py <flags/options>`
 
 ## Demonstration
-Check out the GIF below to see how the CLI interface works.
+Check out the GIF below to see how the CLI works.
 ![](https://github.com/DSS3113/MALHelper/blob/main/demo/demo.gif)
